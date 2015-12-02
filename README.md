@@ -1,2 +1,2 @@
 # slide-decks
-Slide decks from my user group &amp; conference presentations
+Slide decks from my user group, code camp, &amp; conference presentations
